@@ -6,7 +6,7 @@ var website_name = "DLS TOPUP BD";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/+-zQNZZ638vhjYWY1";
+var telegram_channel_link = "https://t.me/itsiftekher";
 
 // =======================================================
 // TELEGRAM GROUP LINK
